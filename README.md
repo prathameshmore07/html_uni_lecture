@@ -14,6 +14,4 @@ The purpose of this repository is to:
 ## 📚 Course Details
 
 - **Language:** HTML5  
-- **Course Type:** University Web Development Course  
-- **Level:** Beginner  
-- **Focus:** Structure, tags, forms, and basic web concepts
+- **Course Type:** University Web Development Course 
