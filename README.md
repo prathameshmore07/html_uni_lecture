@@ -1,11 +1,11 @@
 # HTML Programming (University Course)
 
-This repository contains **day-wise HTML code** written during my university course, starting from **Day 1 until the end of the course**.
+This repository contains **day-wise HTML code** written during my university course, starting from **Lecture 1 until the end of the course**.
 
 The purpose of this repository is to:
 
 - Practice HTML concepts  
-- Maintain organized, day-wise code  
+- Maintain organized, lecture-wise code  
 - Serve as a revision resource for exams and viva  
 - Track learning progress using GitHub  
 
