@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Register</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="page">
+        <form class="register-form">
+            <h2>Create Account</h2>
+
+            <div class="field">
+                <input type="text" placeholder="Full Name" required>
+            </div>
+
+            <div class="field">
+                <input type="email" placeholder="Email Address" required>
+            </div>
+
+            <div class="field">
+                <input type="password" placeholder="Password (min 6 characters)" required minlength="6">
+            </div>
+
+            <div class="field">
+                <input type="tel" placeholder="Mobile Number" required pattern="[0-9]{10}">
+            </div>
+
+            <div class="field">
+                <select required>
+                    <option value="">Select Gender</option>
+                    <option>Male</option>
+                    <option>Female</option>
+                    <option>Helicopter</option>
+                    <option>Other</option>
+                </select>
+            </div>
+
+            <button type="submit">Register</button>
+        </form>
+    </div>
+
+</body>
+
+</html>

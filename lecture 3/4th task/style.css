@@ -1,0 +1,22 @@
+
+p {
+    font-size: 20px;
+}
+
+
+p span {
+    color: green;
+    font-weight: bold;
+}
+
+
+a {
+    color: purple;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: orange;
+    text-decoration: underline;
+}

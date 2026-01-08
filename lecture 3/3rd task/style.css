@@ -1,0 +1,9 @@
+/* English and English-US */
+[lang|="en"] {
+    color: red;
+}
+
+/* French */
+[lang="fr"] {
+    color: green;
+}

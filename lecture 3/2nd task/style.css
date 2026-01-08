@@ -1,0 +1,14 @@
+p.info {
+    color: blue;
+    font-weight: bold;
+}
+
+p.info.highlight {
+    color: green;
+    font-weight: bold;
+}
+
+p[data-type="warning"] {
+    color: red;
+    font-weight: bold;
+}
